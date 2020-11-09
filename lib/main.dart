@@ -40,7 +40,7 @@ class ListState extends State<HomeWidget>{
 
                 leading: const Icon(Icons.flight_land),
                 title: Text(listItem[index]),
-                subtitle: Text('うんちーこんぐ'),
+                subtitle: Text('you'),
                 onTap: () { /* react to the tile being tapped */ },
               ),
             );
